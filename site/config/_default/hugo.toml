@@ -1,11 +1,8 @@
-baseURL                = "https://demo.stack.cai.im/"
+baseURL                = "https://awefs-svg.github.io/protfolio_assignment"
 locale                 = "en-us"
-title                  = "Hugo Theme Stack"
-# Theme i18n support
-# See i18n folder for available languages
+title                  = "My Portfoilo"
+
 defaultContentLanguage = "en"
-# Set hasCJKLanguage to true if DefaultContentLanguage is a CJK language
-# This will make .Summary and .WordCount behave correctly
 hasCJKLanguage         = false
 
 [[module.imports]]
@@ -18,5 +15,3 @@ hasCJKLanguage         = false
     post = "/p/:slug/"
     page = "/:slug/"
 
-[services.disqus]
-    shortname = "hugo-theme-stack"

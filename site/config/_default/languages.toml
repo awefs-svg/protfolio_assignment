@@ -1,31 +1,7 @@
 [en]
     label  = "English"
-    title  = "Hugo Theme Stack"
+    title  = "My Portfoilo"
     weight = 1
 
     [en.params.sidebar]
-        subtitle = "Card-style Hugo theme designed for bloggers"
-
-[zh]
-    label  = "简体中文"
-    title  = "Hugo 主题 Stack"
-    weight = 2
-
-    [zh.params.sidebar]
-        subtitle = "为博客设计的卡片式 Hugo 主题"
-
-[zh-hant-tw]
-    label  = "正體中文"
-    title  = "Hugo 主題 Stack"
-    weight = 3
-
-    [zh-hant-tw.params.sidebar]
-        subtitle = "為博客設計的卡片式 Hugo 主題"
-
-[ja]
-    label  = "日本語"
-    title  = "Hugo Theme Stack"
-    weight = 4
-
-    [ja.params.sidebar]
-        subtitle = "ブログ用のカードスタイルの Hugo テーマ"
+        subtitle = "개발 프로젝트와 학습 경험을 정리한 포트폴리오"

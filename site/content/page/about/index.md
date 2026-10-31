@@ -1,7 +1,7 @@
 ---
 title: Introduction
 description: 자기소개와 관심 분야 및 학습 목표를 소개합니다.
-date: 2026-01-26
+date: 2026-10-30
 lastmod: 2026-10-30
 menu:
     main:

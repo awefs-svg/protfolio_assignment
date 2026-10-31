@@ -1,5 +1,8 @@
 ---
 title: Technical Skills
+description: 학습한 프로그래밍 언어와 개발 도구를 소개합니다.
+date: 2026-10-30
+lastmod: 2026-10-31
 menu:
     main: 
         name: Technical Skills

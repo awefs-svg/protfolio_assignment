@@ -1,14 +1,14 @@
+
 {{ define "main" }}
+    {{- $paginator := partial "helper/paginator.html" . -}}
+
     <section class="article-list">
-        <article class = "article">
-            <div class = "article-content">
-                <div class = "article-content">
-                    {{ .Content }}
-                </div>
-            </div>
-        </article>
+        {{ range $index, $element := $paginator.Pages }}
+            {{ partial "article-list/default" . }}
+        {{ end }}
     </section>
 
+    {{- partial "pagination.html" . -}}
     {{- partial "footer/footer" . -}}
 {{ end }}
 

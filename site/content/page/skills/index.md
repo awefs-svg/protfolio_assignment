@@ -16,9 +16,13 @@ comments: false
 
 ### Python
 
-Python을 활용해 DFS, BFS 등의 탐색 알고리즘을 구현했습니다. 알고리즘의 동작 원리와 탐색 과정에 따른 차이를 이해하고, 문제 해결에 적용하는 방법을 학습했습니다.
+<details>
+<summary>Python</summary>
+<p>Python을 활용해 DFS, BFS 등의 탐색 알고리즘을 구현했습니다. 알고리즘의 동작 원리와 탐색 과정에 따른 차이를 이해하고, 문제 해결에 적용하는 방법을 학습했습니다.</p>
 
-또한 MDP를 활용한 로봇 청소기를 구현하는 과정에서 상태, 행동, 보상을 설정하고 Value Iteration과 Policy Iteration을 구현했습니다. 이를 통해 로봇 청소기가 상황에 따라 행동을 선택하는 과정을 학습했습니다.
+<p>또한 MDP를 활용한 로봇 청소기를 구현하는 과정에서 상태, 행동, 보상을 설정하고 Value Iteration과 Policy Iteration을 구현했습니다. 이를 통해 로봇 청소기가 상황에 따라 행동을 선택하는 과정을 학습했습니다.</p>
+
+</details>
 
 ### C
 

@@ -1,4 +1,4 @@
-mainSections   = ["post", "page"]
+mainSections   = ["post"]
 rssFullContent = true
 favicon        = "images/아바타.png"
 

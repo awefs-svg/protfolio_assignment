@@ -37,4 +37,4 @@ JavaScript를 활용해 기존에 제공된 쿠키런 게임에 새로운 아이
 - Eclipse
 
 
-[< Projects 목록으로 돌아가기](/protfolio_assignment/projects)
+[< Projects 목록으로 돌아가기](/protfolio_assignment/page/projects/)

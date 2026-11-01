@@ -41,3 +41,7 @@ menu:
 #### [MDP 기반 로봇 청소기](/protfolio_assignment/projects/#robot-cleaner)
 - 사용 기술 : Python
 - Value Iteration과 Policy Iteration을 활용한 행동 선택 정책 구현
+
+
+
+[< Home으로 돌아가기](/protfolio_assignment)

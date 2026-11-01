@@ -39,3 +39,7 @@ Java의 기본 문법과 객체지향 프로그래밍을 학습했습니다. Ecl
 - **VS Code** : Python 코드 작성, 프로젝트 파일 수정 및 웹 포트폴리오 개발에 활용
 - **Linux** : 기본 명령어 사용과 소켓 통신 프로그램 실습에 활용
 - **Git bash & GitHub** : Git 명령어를 활용한 소스 코드 버전 관리와 GitHub 저장소 관리 및 웹사이트 배포에 활용
+
+
+
+[< Home으로 돌아가기](/protfolio_assignment)

@@ -12,6 +12,8 @@ menu:
 comments: false
 ---
 
+<a id="cookie-run"></a>
+
 ## JavaScript 기반 쿠키런 게임 아이템 기능 구현
 
 ### 활동 정보
@@ -44,6 +46,8 @@ JavaScript를 활용해 기존에 제공된 쿠키런 게임에 새로운 아이
 - Eclipse
 
 ---
+
+<a id="ai-board"></a>
 
 ## AI 바둑 대결
 
@@ -80,7 +84,9 @@ JavaScript를 활용해 기존에 제공된 쿠키런 게임에 새로운 아이
 
 ---
 
-## MDP 기반 로봇 청소기
+<a id="robot-cleaner"></a>
+
+## MDP 기반 로봇 청소기 
 
 ### 활동 정보
 - 수행 시기 : 2026년 4월 ~ 6월

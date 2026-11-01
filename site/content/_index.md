@@ -26,7 +26,7 @@ menu:
 ## Projects
 직접 진행한 프로젝트와 구현 내용을 소개합니다.
 
-[Projects 페이지 바로가기](/protfolio_assignment/projects/)
+[Projects 페이지 바로가기](/protfolio_assignment/page/projects)
 
 ### 주요 프로젝트
 
@@ -46,5 +46,3 @@ menu:
 
 
 ---
-
-[< Home으로 돌아가기](/protfolio_assignment)

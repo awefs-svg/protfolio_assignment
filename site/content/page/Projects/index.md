@@ -38,7 +38,9 @@ JavaScript를 활용해 기존에 제공된 쿠키런 게임에 새로운 아이
 ### 구현 결과
 게임을 실행한 결과, 기존 게임에서 새롭게 추가한 아이템이 설정한 생성 확률에 따라 게임 화면의 랜덤한 위치에 생성되는 것을 확인했습니다. 또한 캐릭터가 해당 아이템을 획득했을 때 설정한 효과가 적용되는 것을 확인했습니다.
 
-[![쿠키런 게임 실행 화면](/protfolio_assignment/images/쿠키런_게임.png)](/protfolio_assignment/images/쿠키런_게임.png)
+<a href="/protfolio_assignment/images/쿠키런_게임.png"  target="_blank">
+    <img src="/protfolio_assignment/images/쿠키런_게임.png" alt="쿠키런 게임 실행 화면">
+</a>
 
 ### 학습 내용 및 개선 방향
 새로운 기능을 추가하는 과정을 통해 기존 코드를 이해하며 활용하는 방법을 학습했습니다. 향후에는 아이템의 종류와 효과, 시각적 이펙트를 다양하게 추가하여 게임의 기능을 확장하고자 합니다. 
@@ -76,8 +78,9 @@ JavaScript를 활용해 기존에 제공된 쿠키런 게임에 새로운 아이
 ### 구현 결과
 게임을 실행한 결과, 자신의 돌을 연결할 수 있는 공격 상황과 상대방의 돌을 막아야 하는 방어 상황에 따라 각 위치의 가중치를 비교하고, 점수가 높은 위치에 돌을 놓는 것을 확인했습니다. 이를 통해 직접 구현한 수 선택 전략이 실제 AI와의 대결에서 적용되는 것을 확인했습니다.
 
-[![AI 바둑 대결 실행 화면](/protfolio_assignment/images/AI_바둑대결.png)](/protfolio_assignment/images/AI_바둑대결.png)
-
+<a href="/protfolio_assignment/images/AI_바둑대결.png"  target="_blank">
+    <img src="/protfolio_assignment/images/AI_바둑대결.png" alt="AI 바둑 대결 실행 화면">
+</a>
 
 ### 학습 내용 및 개선 방향
 공격과 방어 상황에 따라 가중치를 다르게 설정하고, 여러 후보 위치의 점수를 비교해 수를 선택하는 방법을 학습했습니다. 향후에는 상대방의 공격을 막아야 하는 상황에서 방어 조건을 더 세밀하게 설정하고, 다양한 가중치를 적용해 AI와의 대결에서 수 선택 전략을 개선하고자 합니다.
@@ -118,7 +121,9 @@ MDP를 활용해 장애물이 있는 환경에서 로봇 청소기가 이동할 
 ### 구현 결과
 로봇 청소기 프로그램을 실행한 결과, 새로운 먼지가 생성되면 로봇 청소기가 장애물을 피해 이동하며 먼지를 청소하는 동작을 확인했습니다. 또한 이동 중 배터리 잔량을 확인하고, 배터리가 부족한 경우에는 충전소로 복귀하는 기능이 정상적으로 동작하는 것을 확인했습니다.
 
-[![MDP 기반 로봇 청소기 실행 화면](/protfolio_assignment/images/로봇청소기.png)](/protfolio_assignment/images/로봇청소기.png)
+<a href="/protfolio_assignment/images/로봇청소기.png"  target="_blank">
+    <img src="/protfolio_assignment/images/로봇청소기.png" alt="MDP 기반 로봇 청소기 실행 화면">
+</a>
 
 ### 학습 내용 및 개선 방향
 MDP를 활용하면서 상태, 행동, 보상 설정에 따라 로봇 청소기의 행동이 달라질 수 있다는 점을 학습했습니다. 향후에는 보상 설정을 다양하게 변경하고, 이동 효율과 배터리 소모를 비교해 더 효율적인 행동을 선택하도록 개선하고자 합니다.

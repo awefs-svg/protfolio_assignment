@@ -2,6 +2,7 @@
 title: MDP 기반 로봇 청소기
 description: Value Iteration과 Policy Iteration을 활용한 로봇 청소기 이동 정책 구현 프로젝트입니다.
 date: 2026-06-12
+image: /protfolio_assignment/images/로봇청소기_대표_이미지.png
 tags: ["Python", "MDP", "강화학습"]
 comments: false
 ---

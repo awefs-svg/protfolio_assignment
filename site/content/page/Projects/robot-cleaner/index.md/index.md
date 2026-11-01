@@ -41,7 +41,7 @@ MDP를 활용하면서 상태, 행동, 보상 설정에 따라 로봇 청소기�
 - VS Code
 
 
-[< Projects 목록으로 돌아가기](/protfolio_assignment/projects)
+[< Projects 목록으로 돌아가기](/protfolio_assignment/page/projects/)
 
 
 [< Home으로 돌아가기](/protfolio_assignment)

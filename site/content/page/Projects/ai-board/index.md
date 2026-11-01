@@ -38,7 +38,7 @@ comments: false
 - VS Code
 
 
-[< Projects 목록으로 돌아가기](/protfolio_assignment/projects)
+[< Projects 목록으로 돌아가기](/protfolio_assignment/page/projects/)
 
 
 [< Home으로 돌아가기](/protfolio_assignment)

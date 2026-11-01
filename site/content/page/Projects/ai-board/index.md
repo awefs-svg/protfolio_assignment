@@ -2,6 +2,7 @@
 title: AI 바둑 대결
 description: 공격과 방어 상황을 고려한 AI 수 선택 전략 구현 프로젝트입니다.
 date: 2026-05-24
+tags: ["Python", "인공지능", "게임 AI"]
 comments: false
 ---
 

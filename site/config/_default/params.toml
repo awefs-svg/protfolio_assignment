@@ -3,16 +3,16 @@ rssFullContent = true
 favicon        = "images/아바타.png"
 
 [footer]
-    since = 2020
+    since = 2026
 
 [sidebar]
     emoji    = "✏️"
-    subtitle = "개발 프로젝트와 학습 경험을 정리한 포트폴리오"
+    subtitle = "개발 프로젝트와 학습 경험을 기록한 포트폴리오"
     avatar   = "images/아바타.png"
 
 [article]
     [article.license]
-        enabled = true
+        enabled = false
         default = "Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 
 [widgets]
@@ -20,7 +20,7 @@ favicon        = "images/아바타.png"
     page     = [{ type = "toc" }]
 
 [comments]
-    enabled  = true
+    enabled  = false
     provider = "disqus"
 
 [cookies]

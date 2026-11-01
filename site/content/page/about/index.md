@@ -24,6 +24,40 @@ menu:
 게임은 사용자의 입력과 선택에 따라 다양한 동작과 결과가 나타난다는 점에서 흥미로운 개발 분야라고 생각합니다. 아직 게임 개발을 전문적으로 경험하지는 않았지만, 프로그래밍 실습을 통해 간단한 게임 기능을 구현해보면서 게임 개발에 대한 관심을 갖게 되었습니다.
 이런 경험을 토대로 게임이 어떤 방식으로 동작하며 다양한 기능들이 어떻게 구현되는지 조금씩 알아가고 싶습니다!
 
+### 관심 분야 살펴보기
+
+
+<style>
+    .interest-cards{
+        display: flex;
+        gap: 16px;
+    }
+    .interest-card {
+        border: 1px solid #ccc;
+        padding: 10px;
+        width: 300px;
+        border-radius: 5px;
+    }
+    .interest-card summary {
+        font-weight: bold;
+        cursor: pointer;
+    }
+    .interest-card[open] {
+        background-color: #e6f7ff;
+    }
+</style>
+
+<div class="interest-cards">
+    <details class="interest-card">
+        <summary>게임 개발</summary>
+        <p>게임의 동작 방식과 아이템 기능 구현에 관심있습니다.</p>
+    </details>
+
+    <details class="interest-card">
+        <summary>웹 개발</summary>
+        <p>Hugo와 GitHub Pages를 활용한 웹 개발 및 배포에 관심있습니다.</p>
+    </details>
+</div>
 
 ### 개발 및 학습 경험
 

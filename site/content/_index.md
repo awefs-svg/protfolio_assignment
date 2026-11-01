@@ -30,18 +30,21 @@ menu:
 
 ### 주요 프로젝트
 
-#### [쿠키런 게임 아이템 기능 구현](/protfolio_assignment/projects/#cookie-run) 
-- 사용 기술 : JavaScript
+#### 쿠키런 게임 아이템 기능 구현
+- 사용 언어 : JavaScript
 - 기존 게임에 아이템 생성 및 획득 효과 추가
 
-#### [AI 바둑 대결](/protfolio_assignment/projects/#ai-board)
-- 사용 기술 : Python
+#### AI 바둑 대결
+- 사용 언어 : Python
 - 공격과 방어 상황을 고려한 수 선택 전략 구현 
 
-#### [MDP 기반 로봇 청소기](/protfolio_assignment/projects/#robot-cleaner)
-- 사용 기술 : Python
+#### MDP 기반 로봇 청소기
+- 사용 언어 : Python
 - Value Iteration과 Policy Iteration을 활용한 행동 선택 정책 구현
 
 
+
+
+---
 
 [< Home으로 돌아가기](/protfolio_assignment)

@@ -42,21 +42,19 @@ menu:
         font-weight: bold;
         cursor: pointer;
     }
-    .interest-card[open] {
-        background-color: #e6f7ff;
-    }
+
 </style>
 
 <div class="interest-cards">
-    <details class="interest-card">
-        <summary>게임 개발</summary>
-        <p>게임의 동작 방식과 아이템 기능 구현에 관심있습니다.</p>
-    </details>
+<details class="interest-card">
+<summary>게임 개발</summary>
+<p>게임 개발은 사용자의 입력에 따라 캐릭터가 움직이거나 다양한 기능이 동작하도록 게임을 만드는 분야입니다.</p>
+</details>
 
-    <details class="interest-card">
-        <summary>웹 개발</summary>
-        <p>Hugo와 GitHub Pages를 활용한 웹 개발 및 배포에 관심있습니다.</p>
-    </details>
+<details class="interest-card">
+<summary>웹 개발</summary>
+<p>웹 개발은 사용자가 웹 브라우저를 통해 이용할 수 있는 웹사이트와 다양한 기능을 구현하는 분야입니다.</p>
+</details>
 </div>
 
 ### 개발 및 학습 경험

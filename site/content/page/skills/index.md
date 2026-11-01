@@ -40,6 +40,15 @@ Java의 기본 문법과 객체지향 프로그래밍을 학습했습니다. Ecl
 - **Linux** : 기본 명령어 사용과 소켓 통신 프로그램 실습에 활용
 - **Git bash & GitHub** : Git 명령어를 활용한 소스 코드 버전 관리와 GitHub 저장소 관리 및 웹사이트 배포에 활용
 
+---
+
+## 관련 프로젝트
+
+학습한 기술을 실제 프로젝트에 적용한 내용을 확인할 수 있습니다.
+
+- [JavaScript 기반 쿠키런 게임 아이템 기능 구현](/protfolio_assignment/page/projects/cookie-run/)
+- [AI 바둑 대결](/protfolio_assignment/page/projects/ai-board/)
+- [MDP 기반 로봇 청소기](/protfolio_assignment/page/projects/robot-cleaner/)
 
 
 [< Home으로 돌아가기](/protfolio_assignment)

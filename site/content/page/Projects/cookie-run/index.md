@@ -2,6 +2,7 @@
 title: JavaScript 기반 쿠키런 게임 아이템 기능 구현
 description: 기존 쿠키런 게임에 아이템 생성 및 획득 효과를 추가한 프로젝트입니다.
 date: 2025-12-01
+image: /protfolio_assignment/images/쿠키런_대표_이미지.png
 tags: ["JavaScript", "게임 개발", "아이템 시스템"]
 comments: false
 ---
